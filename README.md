@@ -16,7 +16,7 @@ This is a simple but versatile [Feather](https://learn.adafruit.com/adafruit-fea
 
 The board can be used with screw terminals, Plug in spring terminal connectors, or pin headers for the sensor connections
 
-This board can be purchased assembled here: https://www.tindie.com/products/jtinker/6-ch-24-bit-full-bridge-sensor-featherwing/
+This board can be purchased assembled here: [6-ch-24-bit-full-bridge-sensor-featherwing](https://www.tindie.com/products/jtinker/6-ch-24-bit-full-bridge-sensor-featherwing/)
 
 
 <a href="https://www.tindie.com/stores/jtinker/?ref=offsite_badges&utm_source=sellers_jtinker&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
