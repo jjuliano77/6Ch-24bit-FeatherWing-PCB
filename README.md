@@ -15,3 +15,7 @@ This is a simple but versatile [Feather](https://learn.adafruit.com/adafruit-fea
 - On board 2.5v LDO with enable pin broken out to turn off excitation for low power applications
 
 The board can be used with screw terminals, Plug in spring terminal connectors, or pin headers for the sensor connections
+
+{::nomarkdown}
+<a href="https://www.tindie.com/stores/jtinker/?ref=offsite_badges&utm_source=sellers_jtinker&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
+{:/}
